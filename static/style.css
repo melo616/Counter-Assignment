@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 50px auto;
+}
+
+.buttons {
+    display: flex;
+    gap: 50px;
+}
+
